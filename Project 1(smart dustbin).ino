@@ -1,4 +1,4 @@
-
+//Tinkercard simulatiom
 #include<Servo.h>
 int distance_function(int echo,int trig);
 Servo myservo;
